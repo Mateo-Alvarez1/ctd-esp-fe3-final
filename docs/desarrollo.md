@@ -52,7 +52,7 @@ Una vez que ya tenemos toda la estructura de nuestra aplicación podemos pasar a
 - Deberán guardar dicha información en un contexto global, junto con el theme de la app.
 - Utilizando useReducer crear los métodos necesarios para el manejo de su comportamiento (cambio de theme de la App y guardado de la respuesta de la API en el Contexto).
 
-### Paso 4: Consumir Contexto Global
+### Paso 4: Consumir Contexto 
 
 Con la información ya en mano pasamos a “rellenar” los huecos que dejamos en nuestra estructura anterior, suscribiendo nuestros componentes al contexto global (solo aquellos que necesiten información del mismo)
 
